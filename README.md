@@ -67,7 +67,7 @@ job success
 [https://cloud.google.com/iam/docs/creating-managing-service-accounts]
 2.Copy, Paste the content of the json to credentials.json
 
-4.requirements.txt consists of all the dependencies (along with version numbers) required for the project. pip install will install those dependencies inside your python environment (if it exists and set)
+3.requirements.txt consists of all the dependencies (along with version numbers) required for the project. pip install will install those dependencies inside your python environment (if it exists and set)
        `pip install -r requirements.txt`
  
 ## How to run the Agent:
