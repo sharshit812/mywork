@@ -1,7 +1,7 @@
 # Getthelikesofconsumer
 # Build a Consumer Affinity towards a entity:
 
- This repository contains package for calculating affinity of a consumer for a entity based on score.
+ This repository contains package for calculating affinity of a consumer for a entity based on score. In this repository we are connecting with google cloud component bigquery and performing operations on user activity log to get the affinity of user towards a product.
  
 ------------------
 
