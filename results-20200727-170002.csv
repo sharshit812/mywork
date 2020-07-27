@@ -1,0 +1,1001 @@
+SLA,assigned_to,assignment_group,ref_x_fru_inc_incident_resolution_category,priority
+MET SLA,,ServiceNow - Stefanini,,3 - Moderate
+MET SLA,,ServiceNow - Stefanini,,3 - Moderate
+MET SLA,,ServiceNow - Stefanini,,3 - Moderate
+MET SLA,,ServiceNow - Stefanini,,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Tiberius-Stefan Danes,Global Account Administration,Application,4 - Low
+MET SLA,Tiberius-Stefan Danes,Global Account Administration,Application,4 - Low
+MET SLA,Gabriela Costa,Global Service Desk,Process,4 - Low
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Gabriela Costa,Global Service Desk,Process,4 - Low
+MET SLA,Pablo Lucas Martinez,Global Service Desk,Process,4 - Low
+MET SLA,Gabriela Costa,Global Service Desk,Process,4 - Low
+MET SLA,Gabriela Costa,Global Service Desk,Process,4 - Low
+MET SLA,Andreea Balan,Global Service Desk,User,4 - Low
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohana Ranga Kanchu,NA SAP XI Support,Data,4 - Low
+Missed SLA,Xing Li,APAC China Commercial AppsSupport,Application,4 - Low
+Missed SLA,Xing Li,APAC China Commercial AppsSupport,Application,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Nirosha Nirosha N.,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Nirosha Nirosha N.,GPO,Process,4 - Low
+MET SLA,Anitha M,GPO,Process,4 - Low
+MET SLA,Adrian Bejan,Global Service Desk,Application,3 - Moderate
+MET SLA,Lan Tran,Global LMS Application Support,Application,4 - Low
+MET SLA,Lan Tran,Global LMS Application Support,Data,4 - Low
+MET SLA,Lan Tran,Global LMS Application Support,Application,4 - Low
+MET SLA,Lan Tran,Global LMS Application Support,Application,4 - Low
+MET SLA,Lan Tran,Global LMS Application Support,Application,4 - Low
+MET SLA,Lee Mose,NA Network Data,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,4 - Low
+MET SLA,Chris Tong,Virtela,Infrastructure,4 - Low
+MET SLA,Chris Tong,Virtela,Infrastructure,4 - Low
+MET SLA,Lee Mose,Virtela,Infrastructure,4 - Low
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,NA Network Data,Infrastructure,4 - Low
+MET SLA,John Nootens,NA Network Data,Infrastructure,4 - Low
+MET SLA,Lee Mose,NA Network Data,Infrastructure,4 - Low
+MET SLA,Lee Mose,Virtela,Infrastructure,4 - Low
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,4 - Low
+MET SLA,Chris Tong,NA Network Data,Infrastructure,4 - Low
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,4 - Low
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,4 - Low
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Infrastructure,4 - Low
+MET SLA,Lee Mose,NA Network Data,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,4 - Low
+Missed SLA,Taro Kodama,APAC.Japan.Application Services,Application,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Application,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Process,3 - Moderate
+MET SLA,Lili Yan,Global Service Desk,Application,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Application,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Process,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Application,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Data,4 - Low
+MET SLA,Lili Yan,Global Service Desk,Application,4 - Low
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,1 - Critical
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Adrian Bejan,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,Irina Munteanu,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,GSD Loopback,Infrastructure,3 - Moderate
+MET SLA,Christopher Milligan,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Application,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Mohammed Hakeem,Virtela,Application,3 - Moderate
+MET SLA,David Frost,Virtela,Infrastructure,3 - Moderate
+MET SLA,Nicusor Cinca,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Lee Mose,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,NA US IL Chicago Tech Zone (HP),Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Chris Tong,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Rohit Dosaj,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,,Virtela,Infrastructure,3 - Moderate
+MET SLA,Nisha Mishra,Global RAD Infosys Support,Data,4 - Low
+MET SLA,Ramesh Ayyagari,Global RAD Infosys Support,Application,4 - Low
+Missed SLA,Joanna Ye,APAC China Finance & Corp. AppsSupport,User,4 - Low
+Missed SLA,Mike Sell,APAC.ANZ.Application Services,Infrastructure,4 - Low
+Missed SLA,Mike Sell,APAC.ANZ.Application Services,Infrastructure,4 - Low
+Missed SLA,Mike Sell,APAC.ANZ.Application Services,Application,4 - Low
+Missed SLA,Mike Sell,APAC.ANZ.Application Services,Data,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Qiting Fu,Global Service Desk,Infrastructure,4 - Low
+MET SLA,Raj Verma,Global RTR Oracle EPM (OMCS) - HFM and FIT,User,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle PBCS (OMCS) - ZBB and SCF,Process,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle PBCS (OMCS) - ZBB and SCF,Data,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle PBCS (OMCS) - ZBB and SCF,Process,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle PBCS (OMCS) - ZBB and SCF,Process,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle EPM (OMCS) - HFM and FIT,User,3 - Moderate
+MET SLA,Raj Verma,Global RTR Oracle PBCS (OMCS) - ZBB and SCF,User,3 - Moderate
+MET SLA,Rohan Gai,INT OTC SAP Appl Support,Process,4 - Low
+MET SLA,Rohan Gai,NA PTC SAP Support,Process,4 - Low
+MET SLA,Rohan Gai,NA PTC SAP Support,Data,4 - Low
+MET SLA,Rohan Gai,NA PTC SAP Support,Process,4 - Low
+MET SLA,Rohan Gai,INT OTC SAP Appl Support,Data,4 - Low
+MET SLA,Rohan Gai,INT PTC LE SAP Support,Data,4 - Low
+MET SLA,Rohan Gai,INT OTC SAP Appl Support,Data,4 - Low
+MET SLA,Rohan Gai,NA PTC SAP Support,Data,4 - Low
+MET SLA,Rohan Gai,NA PTC SAP Support,Process,4 - Low
+MET SLA,Rohan Gai,INT OTC SAP Appl Support,Data,4 - Low
+MET SLA,Sam Duray,NA MDM Catalyst Cransoft Appl Support,Data,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Dingming Sun,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Abiraham P,RIMEA.HAMET.Application Services,,4 - Low
+MET SLA,Abiraham P,RIMEA.HAMET.Application Services,,4 - Low
+MET SLA,Abiraham P,RIMEA.HAMET.Application Services,,4 - Low
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,4 - Low
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,3 - Moderate
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,4 - Low
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,3 - Moderate
+MET SLA,Lok Vijay Kudupudi,NA SAP Data Services Appl Support,Application,3 - Moderate
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,3 - Moderate
+MET SLA,Ahad Abdul,NA SAP Data Services Appl Support,Application,3 - Moderate
+MET SLA,Alina Florea,Global Service Desk,User,4 - Low
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Scheduling Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Scheduling Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Scheduling Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Scheduling Appl Support,Application,3 - Moderate
+MET SLA,Amit Kumar,NA SAP Catalyst Batch Scheduling Appl Support,Application,3 - Moderate
+MET SLA,Amit Saini,NA SAP GUI Appl Support,Application,3 - Moderate
+MET SLA,Amit Saini,NA SAP Infrastructure Support,Application,4 - Low
+Missed SLA,Andy Birch,ENT…Middleware IFS,User,4 - Low
+MET SLA,Anna Greku,RIMEA.RUS.Heinz Application Services,User,4 - Low
+MET SLA,Razvan Otelea,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Vladut Mirzac,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Razvan Otelea,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Roxana-Maria Neacsu,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Alexandra-Nicoleta Dinu,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Oana Ungureanu,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Valentin Postolache,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Laura-Andreea Ragalie,Global Service Desk,User,4 - Low
+MET SLA,Andreea Balan,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,Alexandra-Nicoleta Dinu,Global Service Desk,User,3 - Moderate
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei-Bogdan Serbanescu,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Elena Bercea,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,3 - Moderate
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Andreea Balan,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Andrei Morosan,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Beatrice Andreoiu,Global Service Desk,User,4 - Low
+MET SLA,Doina Goian,Global Service Desk,User,4 - Low
+MET SLA,Alexandra Brightmon,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+MET SLA,Nicusor Cinca,Global Service Desk,User,4 - Low
+MET SLA,Mihail Tiganus,Global Service Desk,User,4 - Low
+MET SLA,Valentin Postolache,Global Service Desk,User,4 - Low
+MET SLA,Ioan Voicu,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,George-Radu Stroe,Global Service Desk,User,4 - Low
+Missed SLA,James Sien,APAC.ANZ.Application Services,Application,4 - Low
+Missed SLA,James Sien,APAC.ANZ.Application Services,Application,4 - Low
+Missed SLA,James Sien,APAC.ANZ.Application Services,Data,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+MET SLA,Jiaqi Song,Global Service Desk,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,4 - Low
+Missed SLA,John Shaik,APAC ANZ AMS,Application,3 - Moderate
+Missed SLA,John Shaik,APAC ANZ AMS,Application,3 - Moderate
+MET SLA,Laura Elia,EUR.ITA.Heinz Application Services Other,Application,4 - Low
+MET SLA,Laura Elia,EUR.ITA.Heinz Application Services Other,Application,3 - Moderate
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,User,4 - Low
+MET SLA,Mary Kuppe,ServiceNow Support,Data,4 - Low
+MET SLA,Andrei Sorin Dumitru,Global Service Desk,Application,4 - Low
+MET SLA,Mary Kuppe,ServiceNow Support,User,4 - Low
+MET SLA,Mary Kuppe,ServiceNow Support,User,3 - Moderate
+MET SLA,Mary Kuppe,ServiceNow Support,Data,4 - Low
+Missed SLA,NG YULIANA,APAC.Analytics,Application,4 - Low
+Missed SLA,Nina Bloor,APAC.Analytics,User,4 - Low
+Missed SLA,Nina Bloor,APAC.Analytics,Infrastructure,3 - Moderate
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Integration,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Data,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Data,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,MDG Master Data Workflow,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Data,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Data,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Data,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Data,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Process,4 - Low
+MET SLA,Pritam Deo,NA ES SAP GDS Support,Data,4 - Low
+MET SLA,Ravi Kumar,NA SAP Security Appl Support,User,3 - Moderate
+MET SLA,Ravi Kumar,NA SAP Security Appl Support,User,4 - Low
+MET SLA,Ravi Kumar,NA SAP Security Appl Support,User,3 - Moderate
+MET SLA,Ryan Petit,Americas DMO Material NA,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Material NA,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Process,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Data,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Product US,Process,4 - Low
+Missed SLA,Ryan Petit,Americas DMO Material NA,Data,4 - Low
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Data,3 - Moderate
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Process,3 - Moderate
+MET SLA,Ashis Sahoo,NA BI COBRA Decision Business Objects Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Infrastructure,4 - Low
+MET SLA,Sai Voleti,NA BI COBRA Decision Business Objects Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC InSITE Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC InSITE Appl Support,Infrastructure,3 - Moderate
+MET SLA,Ashis Sahoo,NA PTC InSITE Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC InSITE Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Microfocus Operating System Admin,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Microfocus Operating System Admin,Infrastructure,4 - Low
+MET SLA,Sai Voleti,NA PTC ODS SPEC203 Appl Support,Infrastructure,4 - Low
+MET SLA,Ashis Sahoo,NA PTC Schedule Repository Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Schedule Repository Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Schedule Repository Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Schedule Repository Appl Support,Infrastructure,4 - Low
+MET SLA,Sai Voleti,NA PTC Schedule Repository Appl Support,Infrastructure,3 - Moderate
+MET SLA,Sai Voleti,NA PTC Schedule Repository Appl Support,Process,4 - Low
+MET SLA,Ashis Sahoo,NA PTC InSITE Appl Support,Process,4 - Low
+MET SLA,Sai Voleti,NA PTC InSITE Appl Support,Application,4 - Low
+MET SLA,Ashis Sahoo,NA PTC ODS SPEC203 Appl Support,Infrastructure,4 - Low
+MET SLA,Sai Voleti,NA PTC ODS SPEC203 Appl Support,Data,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC.CHN.Operations,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Sammi Chen,APAC China Finance & Corp. AppsSupport,Process,4 - Low
+Missed SLA,Scott Luen,APAC ANZ EUC Support,User,4 - Low
+MET SLA,Suved Laad,NA MTI SAP Manufacturing Appl Support,Data,4 - Low
+MET SLA,Rohit Singh,NA MTI SAP Manufacturing Appl Support,Process,4 - Low
+MET SLA,Rohit Singh,NA MTI SAP Manufacturing Appl Support,Process,4 - Low
+MET SLA,Rohit Singh,NA MTI SAP Manufacturing Appl Support,User,4 - Low
+MET SLA,Suved Laad,NA MTI SAP Manufacturing Appl Support,Application,4 - Low
+MET SLA,Suved Laad,NA MTI SAP Manufacturing Appl Support,Infrastructure,3 - Moderate
+MET SLA,Suved Laad,NA MTI SAP Manufacturing Appl Support,Data,4 - Low
+MET SLA,Suved Laad,NA MTI SAP Manufacturing Appl Support,Data,4 - Low
+MET SLA,Suved Laad,NA SAP Catalyst Batch Appl Support,Infrastructure,3 - Moderate
+MET SLA,Suved Laad,NA SAP Catalyst Batch Appl Support,Infrastructure,3 - Moderate
+MET SLA,Suved Laad,NA SAP Catalyst Batch Appl Support,Infrastructure,3 - Moderate
+MET SLA,José Garcia da Silva,NA SAP Catalyst Batch Appl Support,Infrastructure,4 - Low
+MET SLA,Suved Laad,NA SAP Catalyst Batch Appl Support,Data,4 - Low
+MET SLA,Mahesh Prasad,INT STS SAP Manuf Appl Support,Process,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,Process,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Costel Ciocirlan,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,3 - Moderate
+MET SLA,Florin-Stefanita Udrea,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,3 - Moderate
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Vlad Jinga,Global O365 Support,User,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Yingjie Wang,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Guoying Fan,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Sidan Tan,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+MET SLA,Wenxin Xia,Global Service Desk,Application,4 - Low
+Missed SLA,Winner Liu,APAC China SupplyChain AppsSupport,Application,4 - Low
+Missed SLA,Winner Liu,APAC China SupplyChain AppsSupport,Application,4 - Low
+MET SLA,Yashwini A,GPO,Application,3 - Moderate
+MET SLA,Amol Rakibe,INT STP SAP Appl Support,Process,3 - Moderate
+MET SLA,Amol Rakibe,INT STP SAP Appl Support,Process,3 - Moderate
+MET SLA,Amol Rakibe,NA SAP Catalyst Batch Appl Support,Data,3 - Moderate
+MET SLA,Amol Rakibe,NA STP SAP Procurement Appl Support,Process,4 - Low
+MET SLA,Amol Rakibe,INT STP SAP Appl Support,Process,3 - Moderate
+MET SLA,Amol Rakibe,INT STP SAP Appl Support,Process,4 - Low
+MET SLA,Amol Rakibe,INT STP SAP Appl Support,Process,3 - Moderate
+MET SLA,Amol Rakibe,NA STP SAP Procurement Appl Support,Process,4 - Low
+MET SLA,Anahi Jasso,GSD Loopback,Infrastructure,4 - Low
+MET SLA,Anahi Jasso,USA.HNA.Softtek Application Services,Application,4 - Low
+MET SLA,Anahi Jasso,NA MTI Global Quality Appl Support,Application,4 - Low
+MET SLA,Anahi Jasso,USA.HNA.Softtek Application Services,Infrastructure,4 - Low
+MET SLA,Anahi Jasso,NA MTI Global Quality Appl Support,Application,4 - Low
+MET SLA,Anahi Jasso,NA MTI Global Quality Appl Support,Application,4 - Low
+MET SLA,Anahi Jasso,USA.HNA.Softtek Application Services,Application,4 - Low
+MET SLA,Anahi Jasso,NA MTI Global Quality Appl Support,Infrastructure,4 - Low
+MET SLA,Anahi Jasso,USA.HNA.Softtek Application Services,Application,4 - Low
+MET SLA,Anahi Jasso,NA MTI Global Quality Appl Support,Application,4 - Low
+MET SLA,Anahi Jasso,USA.HNA.Softtek Application Services,Application,3 - Moderate
+MET SLA,Anshu Gupta,NA Business Objects Infra Support,Application,3 - Moderate
+MET SLA,Anshu Gupta,NA Business Objects Infra Support,Application,4 - Low
+MET SLA,Anshu Gupta,NA Business Objects Infra Support,Application,4 - Low
+MET SLA,Naveen Challagolla,NA Business Objects Infra Support,Application,3 - Moderate
+MET SLA,Anup Haldar,NA STC SQL Rptng Plng Application,Application,3 - Moderate
